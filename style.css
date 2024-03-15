@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.occupation {
+    margin: 0px 60px;
+}
+
+ul {
+    list-style: none;
+}
+
